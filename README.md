@@ -1,7 +1,5 @@
 # Demo GIT repo in classroom
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 WAJO Sybren
 =======
 ## aanpassing van Sybren
